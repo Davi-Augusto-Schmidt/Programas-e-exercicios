@@ -1,0 +1,6 @@
+x = int(input("Digite o primeiro numero:"))
+y = int(input("Digite o segundo numero:"))
+print("Soma:", x+y)
+print("Subtração:", x-y)
+print("Multiplicação:", x*y)
+print("Divisão:", x//y)
